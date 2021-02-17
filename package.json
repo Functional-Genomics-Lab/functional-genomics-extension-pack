@@ -15,6 +15,7 @@
     "alefragnani.project-manager",
     "ionutvmi.path-autocomplete",
     "CoenraadS.bracket-pair-colorizer",
-    "github.vscode-pull-request-github"
+    "github.vscode-pull-request-github",
+    "sdras.docs-extensionpack"
   ]
 }

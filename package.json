@@ -16,6 +16,19 @@
     "ionutvmi.path-autocomplete",
     "CoenraadS.bracket-pair-colorizer",
     "github.vscode-pull-request-github",
-    "sdras.docs-extensionpack"
+    "Mikhail-Arkhipov.r",
+    "codezombiech.gitignore",
+    "ms-toolsai.jupyter",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "MS-vsliveshare.vsliveshare-pack",
+    "sdras.docs-extensionpack",
+    "ms-azuretools.vscode-docker",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "donjayamanne.githistory",
+    "foam.foam-vscode",
+    "vsls-contrib.gistfs",
+    "wayou.vscode-todo-highlight",
+    "Gruntfuggly.todo-tree",
+    "GrapeCity.gc-excelviewer"
   ]
 }

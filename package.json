@@ -10,6 +10,13 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "ms-python.python",
+        "ms-vscode-remote.remote-ssh-edit",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "alefragnani.project-manager",
+        "ionutvmi.path-autocomplete",
+        "CoenraadS.bracket-pair-colorizer",
+        "github.vscode-pull-request-github",
     ]
 }

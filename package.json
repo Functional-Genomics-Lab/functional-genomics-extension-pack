@@ -1,22 +1,20 @@
 {
-    "name": "functional-genomics",
-    "displayName": "Functional Genomics",
-    "description": "Extensions for bioinformatics and computational biology",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.53.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "ms-python.python",
-        "ms-vscode-remote.remote-ssh-edit",
-        "eamodio.gitlens",
-        "EditorConfig.EditorConfig",
-        "alefragnani.project-manager",
-        "ionutvmi.path-autocomplete",
-        "CoenraadS.bracket-pair-colorizer",
-        "github.vscode-pull-request-github",
-    ]
+  "name": "functional-genomics",
+  "displayName": "Functional Genomics",
+  "description": "Extensions for bioinformatics and computational biology",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": ["Extension Packs"],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-vscode-remote.remote-ssh-edit",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "alefragnani.project-manager",
+    "ionutvmi.path-autocomplete",
+    "CoenraadS.bracket-pair-colorizer",
+    "github.vscode-pull-request-github"
+  ]
 }

@@ -10,6 +10,7 @@
   },
   "categories": ["Extension Packs"],
   "extensionPack": [
+    "nf-core.nf-core-extensionpack",
     "ms-python.python",
     "ms-vscode-remote.vscode-remote-extensionpack",
     "eamodio.gitlens",

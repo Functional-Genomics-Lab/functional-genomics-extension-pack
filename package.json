@@ -2,6 +2,8 @@
   "name": "functional-genomics",
   "displayName": "Functional Genomics",
   "description": "Extensions for bioinformatics and computational biology",
+  "publisher": "FunctionalGenomics",
+  "repository": " Functional-Genomics-Lab/functional-genomics-extension-pack",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.53.0"
